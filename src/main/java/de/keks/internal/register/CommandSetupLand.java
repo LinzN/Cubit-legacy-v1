@@ -45,15 +45,7 @@ import de.keks.internal.command.land.chunk.LandChunkSaves;
 import de.keks.internal.command.land.chunk.LandChunkSetbiome;
 import de.keks.internal.plugin.hooks.OfferManager;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
+
 
 public class CommandSetupLand implements CommandExecutor {
 	public boolean isInitialized() {

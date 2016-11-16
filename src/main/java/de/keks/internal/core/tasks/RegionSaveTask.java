@@ -6,15 +6,6 @@ import com.sk89q.worldguard.bukkit.WorldGuardPlugin;
 import com.sk89q.worldguard.protection.managers.RegionManager;
 import com.sk89q.worldguard.protection.regions.ProtectedRegion;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class RegionSaveTask implements Runnable {
 

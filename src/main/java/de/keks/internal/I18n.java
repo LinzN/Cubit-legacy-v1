@@ -12,15 +12,6 @@ import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.Plugin;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class I18n {
 

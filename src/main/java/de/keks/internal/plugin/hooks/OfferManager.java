@@ -6,15 +6,6 @@ import org.bukkit.plugin.Plugin;
 
 import de.keks.internal.core.database.DatabaseFacade;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class OfferManager {
 

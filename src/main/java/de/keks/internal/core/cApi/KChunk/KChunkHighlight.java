@@ -9,15 +9,7 @@ import org.bukkit.entity.Player;
 
 import de.keks.cubit.CubitPlugin;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
+
 
 public class KChunkHighlight {
 

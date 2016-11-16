@@ -3,16 +3,6 @@ package de.keks.internal.core.tasks;
 import de.keks.cubit.CubitPlugin;
 import de.keks.internal.register.CommandSetupAdmin;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
-
 public class SetupAdminCommandsTask implements Runnable {
 
 	private CubitPlugin cubit;

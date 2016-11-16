@@ -11,15 +11,6 @@ import org.bukkit.entity.Player;
 
 import net.minecraft.server.v1_10_R1.PacketPlayOutMapChunk;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class NMSVersion1_10_R1 {
 	private final net.minecraft.server.v1_10_R1.Chunk chunk;

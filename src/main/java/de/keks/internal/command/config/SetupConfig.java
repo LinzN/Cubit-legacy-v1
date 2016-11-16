@@ -5,16 +5,6 @@ import java.util.List;
 
 import org.bukkit.Material;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
-
 public class SetupConfig {
 	// private static HashMap<String, Object> defaultvalue;
 

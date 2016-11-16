@@ -7,15 +7,7 @@ import de.keks.internal.plugin.hooks.classes.VaultHook;
 import de.keks.internal.plugin.hooks.classes.WorldEditHook;
 import de.keks.internal.plugin.hooks.classes.WorldGuardHook;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
+
 public class HookManager {
 
 	private WorldGuardHook worldGuardManager;

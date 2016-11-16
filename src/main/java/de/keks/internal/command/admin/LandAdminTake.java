@@ -31,15 +31,6 @@ import de.keks.internal.register.MainCore;
 
 public class LandAdminTake extends MainCore {
 
-	/**
-	 * Copyright:
-	 * <ul>
-	 * <li>Autor: Kekshaus</li>
-	 * <li>2016</li>
-	 * <li>www.minegaming.de</li>
-	 * </ul>
-	 * 
-	 */
 
 	public LandAdminTake(CommandSetupAdmin handler) {
 		super(true);

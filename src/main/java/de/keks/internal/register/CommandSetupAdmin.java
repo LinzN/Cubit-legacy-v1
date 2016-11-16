@@ -23,15 +23,6 @@ import de.keks.internal.command.admin.LandAdminTp;
 import de.keks.internal.command.admin.LandAdminUnsetServerRegion;
 import de.keks.internal.plugin.hooks.OfferManager;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class CommandSetupAdmin implements CommandExecutor {
 	public boolean isInitialized() {

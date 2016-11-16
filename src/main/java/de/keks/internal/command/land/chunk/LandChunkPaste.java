@@ -29,16 +29,6 @@ import de.keks.internal.core.tasks.RegionSaveTask;
 import de.keks.internal.register.CommandSetupLand;
 import de.keks.internal.register.MainCore;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
-
 public class LandChunkPaste extends MainCore {
 	public LandChunkPaste(CommandSetupLand handler) {
 		super(true);

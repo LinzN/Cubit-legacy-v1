@@ -17,15 +17,6 @@ import de.keks.internal.command.config.ConfigValues;
 import de.keks.internal.core.database.DatabaseFacade;
 import de.keks.internal.plugin.hooks.classes.EconomyHook;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public abstract class MainCore {
 

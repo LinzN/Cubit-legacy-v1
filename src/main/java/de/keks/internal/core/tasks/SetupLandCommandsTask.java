@@ -3,15 +3,6 @@ package de.keks.internal.core.tasks;
 import de.keks.cubit.CubitPlugin;
 import de.keks.internal.register.CommandSetupLand;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
 
 public class SetupLandCommandsTask implements Runnable {
 

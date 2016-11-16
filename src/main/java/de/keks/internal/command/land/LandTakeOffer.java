@@ -25,15 +25,6 @@ import de.keks.internal.register.MainCore;
 
 public class LandTakeOffer extends MainCore {
 
-	/**
-	 * Copyright:
-	 * <ul>
-	 * <li>Autor: Kekshaus</li>
-	 * <li>2016</li>
-	 * <li>www.minegaming.de</li>
-	 * </ul>
-	 * 
-	 */
 
 	public LandTakeOffer(CommandSetupLand handler) {
 		super(true);

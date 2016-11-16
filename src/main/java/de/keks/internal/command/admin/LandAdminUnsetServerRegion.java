@@ -15,15 +15,6 @@ import de.keks.internal.register.MainCore;
 
 public class LandAdminUnsetServerRegion extends MainCore {
 
-	/**
-	 * Copyright:
-	 * <ul>
-	 * <li>Autor: Kekshaus</li>
-	 * <li>2016</li>
-	 * <li>www.minegaming.de</li>
-	 * </ul>
-	 * 
-	 */
 
 	public LandAdminUnsetServerRegion(CommandSetupAdmin handler) {
 		super(true);

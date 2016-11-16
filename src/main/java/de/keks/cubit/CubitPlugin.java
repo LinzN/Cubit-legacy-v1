@@ -19,16 +19,6 @@ import de.keks.internal.register.CommandSetupLand;
 import de.keks.internal.register.MainCore;
 import net.milkbowl.vault.economy.Economy;
 
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- */
-
 public class CubitPlugin extends JavaPlugin {
 
 	public int cubitTaskTime = 1;

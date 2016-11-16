@@ -1,12 +1,4 @@
-/**
- * Copyright:
- * <ul>
- * <li>Autor: Kekshaus</li>
- * <li>2016</li>
- * <li>www.minegaming.de</li>
- * </ul>
- * 
- **/
+
 package de.keks.internal.command.config;
 
 import java.util.List;
